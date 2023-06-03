@@ -147,6 +147,3 @@ def ner_from_url(url, output_path):
         finalizar(list1, list2, list3, list4, list5, text, impact, output_path)
   else:
       pass
-
-# Ejemplo de uso de la función ner_from_url
-ner_from_url("https://www.lapatilla.com/2023/05/31/la-mineria-ilegal-crece-voraz-y-amenazante-en-la-amazonia-de-ecuador/","prueba4")
